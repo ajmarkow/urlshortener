@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/aboutme",
+      "destination": "https://about.me/ajmarkow"
+    },
+    {
       "source": "/keybase",
       "destination": "https://keybase.io/ajmarkow"
     },
