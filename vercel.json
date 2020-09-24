@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/devto",
+      "destination": "https://dev.to/ajmarkow"
+    },
+    {
       "source": "/linkedin",
       "destination": "https://linkedin.com/in/ajmarkow"
     },
