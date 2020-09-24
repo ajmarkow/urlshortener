@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/linkedin",
+      "destination": "https://linkedin.com/in/ajmarkow"
+    },
+    {
       "source": "/main",
       "destination": "https://www.ajm.codes"
     },
