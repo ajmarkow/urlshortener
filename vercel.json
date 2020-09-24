@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/hackerrank",
+      "destination": "https://www.hackerrank.com/alexanderjmarkow?hr_r=1"
+    },
+    {
       "source": "/telegram",
       "destination": "https://t.me/ajmcodes"
     },
