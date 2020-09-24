@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/vercel",
+      "destination": "https://vercel.com/ajmcodes"
+    },
+    {
       "source": "/github",
       "destination": "https://www.github.com/ajmarkow/"
     },
