@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/1",
+      "destination": "https://ajs.photos"
+    },
+    {
       "source": "/sf",
       "destination": "https://trailblazer.me/id/ajmarkow"
     },
