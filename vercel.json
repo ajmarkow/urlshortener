@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/m",
+      "destination": "https://m.me/ajmarkow"
+    },
+    {
       "source": "/1",
       "destination": "https://ajs.photos"
     },
