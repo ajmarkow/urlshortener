@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "https://twitter.com/ajmcodes",
+      "destination": "/tweets"
+    },
+    {
       "source": "/ajmcodes",
       "destination": "https://twitter.com/ajmcodes"
     }
