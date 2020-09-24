@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/github",
+      "destination": "https://www.github.com/ajmarkow/"
+    },
+    {
       "source": "/hackerrank",
       "destination": "https://www.hackerrank.com/alexanderjmarkow?hr_r=1"
     },
