@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/spotify",
+      "destination": "https://open.spotify.com/user/123329384"
+    },
+    {
       "source": "/devto",
       "destination": "https://dev.to/ajmarkow"
     },
