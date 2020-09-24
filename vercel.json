@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/fitbit",
+      "destination": "https://www.fitbit.com/user/32C8F2"
+    },
+    {
       "source": "fitbit",
       "destination": "https://www.fitbit.com/user/32C8F2"
     },
