@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/sf",
+      "destination": "https://trailblazer.me/id/ajmarkow"
+    },
+    {
       "source": "/fb",
       "destination": "https://www.facebook.com/ajmarkow"
     },
