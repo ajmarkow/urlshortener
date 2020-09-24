@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/keybase",
+      "destination": "https://keybase.io/ajmarkow"
+    },
+    {
       "source": "/spotify",
       "destination": "https://open.spotify.com/user/123329384"
     },
