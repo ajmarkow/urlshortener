@@ -3,14 +3,6 @@
     {
       "source": "/tweets",
       "destination": "https://twitter.com/ajmcodes"
-    },
-    {
-      "source": "https://twitter.com/ajmcodes",
-      "destination": "/tweets"
-    },
-    {
-      "source": "/ajmcodes",
-      "destination": "https://twitter.com/ajmcodes"
     }
   ]
 }
