@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/fb",
+      "destination": "https://www.facebook.com/ajmarkow"
+    },
+    {
       "source": "/espanso",
       "destination": "https://gist.github.com/ajmarkow/b4be0d4adbef653ff38bfd56090e862d"
     },
