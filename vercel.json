@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/questions",
+      "destination": "https://forms.gle/px94UKVQv87DpErX6"
+    },
+    {
       "source": "/m",
       "destination": "https://m.me/ajmarkow"
     },
