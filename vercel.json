@@ -83,6 +83,10 @@
         {
       "source": "/indeed",
       "destination": "https://my.indeed.com/p/alexanderm-aqa7zn5"
+    },
+     {
+      "source": "/links",
+      "destination": "https://linktr.ee/ajmcodes"
     }
   ]
 }
