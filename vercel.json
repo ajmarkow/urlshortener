@@ -87,6 +87,18 @@
      {
       "source": "/links",
       "destination": "https://linktr.ee/ajmcodes"
+    },
+      {
+      "source": "/medium",
+      "destination": "https://medium.com/@ajmarkow"
+    },
+          {
+      "source": "/angellist",
+      "destination": "https://angel.co/u/ajmcodes"
+    },
+              {
+      "source": "/stackoverflow",
+      "destination": "https://stackoverflow.com/users/9542661/aj-markow"
     }
   ]
 }
