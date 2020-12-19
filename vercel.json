@@ -99,6 +99,10 @@
               {
       "source": "/stackoverflow",
       "destination": "https://stackoverflow.com/users/9542661/aj-markow"
+    },
+                  {
+      "source": "/snippetgem",
+      "destination": "https://rubygems.org/gems/snippets_for_espanso"
     }
   ]
 }
