@@ -103,6 +103,10 @@
                   {
       "source": "/snippetgem",
       "destination": "https://rubygems.org/gems/snippets_for_espanso"
-    }
+    },
+                      {
+      "source": "/about",
+      "destination": "https://ajmarkow.github.io/ajmarkow/"
+    
   ]
 }
