@@ -92,21 +92,21 @@
       "source": "/medium",
       "destination": "https://medium.com/@ajmarkow"
     },
-          {
+     {
       "source": "/angellist",
       "destination": "https://angel.co/u/ajmcodes"
     },
-              {
+     {
       "source": "/stackoverflow",
       "destination": "https://stackoverflow.com/users/9542661/aj-markow"
     },
-                  {
+     {
       "source": "/snippetgem",
       "destination": "https://rubygems.org/gems/snippets_for_espanso"
     },
-                      {
+     {
       "source": "/about",
       "destination": "https://ajmarkow.github.io/ajmarkow/"
-    
+     }
   ]
 }
