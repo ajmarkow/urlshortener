@@ -107,6 +107,10 @@
      {
       "source": "/about",
       "destination": "https://ajmarkow.github.io/ajmarkow/"
+     },
+         {
+      "source": "/resume",
+      "destination": "https://drive.google.com/file/d/1HXWeBmz4ZgDwdNBDGDEMs9xzyq6nrhNA/view?usp=sharing"
      }
   ]
 }
